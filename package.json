@@ -1,0 +1,28 @@
+{
+  "name": "vite-plugin-inline-source-minus",
+  "version": "1.0.0",
+  "description": "一个用来将css和js资源内联导入到html中的的vite插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qingniao99/vite-plugin-inline-source-minus.git"
+  },
+  "keywords": [
+    "vite",
+    "inline-source",
+    "html"
+  ],
+  "author": "qingniao99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qingniao99/vite-plugin-inline-source-minus/issues"
+  },
+  "homepage": "https://github.com/qingniao99/vite-plugin-inline-source-minus#readme",
+  "dependencies": {
+    "csso": "^5.0.5",
+    "terser": "^5.43.1"
+  }
+}
