@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-inline-source-minus",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "一个用来将css和js资源内联导入到html中的的vite插件",
   "main": "index.js",
   "scripts": {
